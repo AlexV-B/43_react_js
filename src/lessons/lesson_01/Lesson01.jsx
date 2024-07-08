@@ -3,7 +3,7 @@ import './lesson01.css'
 export default function Lesson01(){
     const heading = 'Урок 01'
 
-    const classContainer = 'lesson1-container'
+    const classContainer = 'lesson-container'
 
     function formatName(user) {
     return `Name: ${user.name}, lastName: ${user.lastName}`
